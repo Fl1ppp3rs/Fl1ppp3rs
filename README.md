@@ -15,7 +15,7 @@ Hi! I am Finn.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl1ppp3rs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fl1ppp3rs&theme=tokyonight&layout)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1ppp3rs&theme=tokyonight&layout=compact&show_icons=true&hide_border=true&langs_count=8&card_width=450)
 
