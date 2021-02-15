@@ -6,7 +6,7 @@ Hi! I am Finn.
 - Python
 - Css
 
-###IDEs I use
+### IDEs I use
 
 - PyCharm
 - Sublime Text
