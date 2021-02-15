@@ -1,14 +1,13 @@
 Hi! I am Finn.
 
 ### Languages I Know
-<kbd>
+
 - HTML
 - Python
 - Css
-</kbd>
 
 ###IDEs I use
-<kbd>
+
 - PyCharm
 - Sublime Text
 - VsCode
