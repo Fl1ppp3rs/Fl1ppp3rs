@@ -18,7 +18,7 @@ Hi! I am Finn.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1ppp3rs&theme=tokyonight&layout=compact&show_icons=true&hide_border=true&langs_count=8&card_width=450)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fl1ppp3rs&theme=tokyonight&hide_border=true&layout=compact)
+![trophy](https://github-profile-trophy.vercel.app/?username=Fl1ppp3rs-AI&theme=juicyfresh)
 
 
 <!--
